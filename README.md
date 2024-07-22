@@ -76,9 +76,10 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirates59&" alt="pirates59" />
 </p>
-
 <p align="center">
-  <a href="https://gifdb.com/programming" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fprogramming&psig=AOvVaw10uiqUcoRZlM8utR-Do6im&ust=1721721156694000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCPjshqKVuocDFQAAAAAdAAAAABAo" alt="programming gifs" />
-  </a>
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG56Zmc4aW53dXo3bzR4aHZheDV6ZWpobm5sb3QxMHA0OWNlbDRtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVDo6InQKyW8o/giphy.gif" alt="programming gif" width="480" height="269" />
 </p>
+
+
+
+
