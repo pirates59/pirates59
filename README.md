@@ -1,13 +1,18 @@
-<h1 align="center">Hi 👋, I'm Lenisha</h1>
-<h3 align="center">Frontend developer from Nepal</h3>
+<h1 align="center">Namastey 👋, from Lenisha</h1>
 
+
+<h3 align="left">Frontend developer from Nepal</h3>
+<p align="left">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3BwbmJtZ3k3bjhvcXJnY2UzcDFrcTV5MHp6bTI3dWJ5bTFxenM2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zP6JaovsjxSEg/giphy.gif" alt="programming gif" width="300" height="300" />
+</p>
+
+⚡ Fun fact **I like Chole Bhature more than Momo**
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=pirates59" alt="pirates59" />
   </a> 
 </p>
 
-- ⚡ Fun fact **I like chole bhature more than momo**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -73,12 +78,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pirates59&show_icons=true&locale=en" alt="pirates59" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pirates59&" alt="pirates59" />
-</p>
-<p align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeG56Zmc4aW53dXo3bzR4aHZheDV6ZWpobm5sb3QxMHA0OWNlbDRtZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iVDo6InQKyW8o/giphy.gif" alt="programming gif" width="480" height="269" />
-</p>
 
 
 
